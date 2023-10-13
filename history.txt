@@ -1,0 +1,1000 @@
+ 1074  git pull
+ 1075  git checkout main
+ 1076  git merge master
+ 1077  git push
+ 1078  cd alx-low_level_programming/
+ 1079  cd 0x08-recursion/
+ 1080  cd ..
+ 1081  gh auth login.
+ 1082  gh auth login
+ 1083  gh auth status
+ 1084  git checkout main
+ 1085  git merge master
+ 1086  cd 0x08-recursion/
+ 1087  git merge master
+ 1088  ls
+ 1089  git push
+ 1090  gh auth status
+ 1091  git branch -m master <BRANCH>
+ 1092  git branch -m master main
+ 1093  git checkout master
+ 1094  git merge main
+ 1095  git checkout main
+ 1096  git checkout-b master
+ 1097  git fetch origin
+ 1098  git remote set-head origin -a
+ 1099  git checkout master
+ 1100  git merge main
+ 1101  git checkout main
+ 1102  git push
+ 1103  git push --set-upstream origin main
+ 1104  git push origin main
+ 1105  git push main
+ 1106  git setup
+ 1107  git status
+ 1108  cd alx-low_level_programming/
+ 1109  ls
+ 1110  cd 0x08-recursion/
+ 1111  ls
+ 1112  git push
+ 1113  git push --set-upstream origin main
+ 1114  ls
+ 1115  cd alx-low_level_programming/
+ 1116  ls
+ 1117  cd 0x08-recursion/
+ 1118  ls
+ 1119  rm -r alx-low_level_programming/
+ 1120  ls
+ 1121  git clone https://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@github.com/BongOwethu/alx-low_level_programming.git
+ 1122  ls
+ 1123  cd alx-low_level_programming/
+ 1124  ls
+ 1125  rm -r alx-low_level_programming/
+ 1126  cd 0x08-recursion/
+ 1127  ls
+ 1128  vi main.h 
+ 1129  vi 0-puts_recursion.c 
+ 1130  cd alx-low_level_programming/
+ 1131  ls
+ 1132  cd 0x08-recursion/
+ 1133  ls
+ 1134  git pull
+ 1135  git add .
+ 1136  git commit -m'Update'
+ 1137  git push
+ 1138  ls
+ 1139  cd alx-low_level_programming/
+ 1140  cd 0x09
+ 1141  cd 0x09-static_libraries/
+ 1142  ls
+ 1143  vi README.md 
+ 1144  vi main.h 
+ 1145  vi 0-isupper.c
+ 1146  rm *.o
+ 1147  ls
+ 1148  rm create_static_lib.sh 
+ 1149  vi 0-memset.c 
+ 1150  vi 0-strcat.c 
+ 1151  vi 1-isdigit.c 
+ 1152  vi 1-strncat.c 
+ 1153  vi 1-memcpy.c 
+ 1154  ls
+ 1155  clear
+ 1156  ls
+ 1157  vi 2-strchr.c 
+ 1158  vi 2-strlen.c 
+ 1159  betty 2-strchr.c 
+ 1160  vi 2-strlen.c 
+ 1161  clear
+ 1162  ls
+ 1163  vi 3-islower.c 
+ 1164  betty 3-islower.c 
+ 1165  vi 3-islower.c 
+ 1166  betty 3-islower.c 
+ 1167  vi 3-puts.c 
+ 1168  clear
+ 1169  vi 4-isalpha.c 
+ 1170  vi 4-strpbrk.c 
+ 1171  vi 5-strstr.c 
+ 1172  vi 6-abs.c 
+ 1173  vi 9-strcpy.c 
+ 1174  clear
+ 1175  ls
+ 1176  rm libmy.a 
+ 1177  rm liball.a 
+ 1178  ls
+ 1179  vi _putchar.c 
+ 1180  betty *.c
+ 1181  vi _putchar.c 
+ 1182  vi 4-strpbrk.c vi 100-atoi.c 
+ 1183  vi 4-strpbrk.c vi 1-isdigit.c 
+ 1184  vi 0-strcat.c 
+ 1185  betty *.c
+ 1186  vi _putchar.c 
+ 1187  betty _putchar.c 
+ 1188  vi 1-isdigit.c 
+ 1189  vi 0-isupper.c 
+ 1190  betty 0-isupper.c 
+ 1191  vi 0-isupper.c 
+ 1192  betty 0-isupper.c 
+ 1193  betty *.c
+ 1194  clear
+ 1195  gcc -c *.c
+ 1196  ls
+ 1197  ar rcs libmy.a 
+ 1198  ls
+ 1199  ar rcs libmy.a *.o
+ 1200  file create_static_lib.sh
+ 1201  echo create_static_lib.sh
+ 1202  vi create_static_lib.sh
+ 1203  ls
+ 1204  chmod u+xcreat_ststic_lib.sh
+ 1205  chmod u+x creat_ststic_lib.sh
+ 1206  chmod u+x creat_stastic_lib.sh
+ 1207  chmod u+x create_stastic_lib.sh
+ 1208  vi create_static_lib.sh
+ 1209  chmod u+x create_stastic_lib.sh
+ 1210  clear
+ 1211  ls
+ 1212  chmod u+x create_static_lib.sh 
+ 1213  ls
+ 1214  vi create_static_lib.sh
+ 1215  ./create_static_lib.sh 
+ 1216  ls
+ 1217  git add .
+ 1218  git commit -m'Updated files'
+ 1219  git push
+ 1220  git fetch origin
+ 1221  git checkout
+ 1222  git checkout -b main
+ 1223  git status
+ 1224  git merge origin main
+ 1225  git push
+ 1226  cd ../0x0A-argc_argv/
+ 1227  ls
+ 1228  vi 0-whatsmyname.c 
+ 1229  vi 1-args.c 
+ 1230  vi README.md 
+ 1231  git add .
+ 1232  git commit -m'Updated file'
+ 1233  git push
+ 1234  clear
+ 1235  ls
+ 1236  vi 2-args.c 
+ 1237  betty 2-args.c 
+ 1238  vi 3-mul.c 
+ 1239  vi 4-add.c 
+ 1240  betty 4-add.c 
+ 1241  git add .
+ 1242  git commit -m
+ 1243  git commit -m'Updated file'
+ 1244  git push
+ 1245  cd alx-low_level_programming/
+ 1246  ls
+ 1247  cd 0x0B-malloc_free/
+ 1248  ls
+ 1249  vi 0-create_array.cr
+ 1250  vi 1-strdup.c 
+ 1251  vi 2-str_concat.c 
+ 1252  vi 3-alloc_grid.c 
+ 1253  vi 4-free_grid.c 
+ 1254  clear
+ 1255  ls
+ 1256  vi main.h 
+ 1257  vi _putchar.c 
+ 1258  betty *.c
+ 1259  vi 2-str_concat.c 
+ 1260  betty 2-str_concat.c 
+ 1261  vi 2-str_concat.c 
+ 1262  betty 2-str_concat.c 
+ 1263  ls
+ 1264  vi 0-create_array.c
+ 1265  git add .
+ 1266  git commit -m'Updated'
+ 1267  rm 0-create_array.cr
+ 1268  ls
+ 1269  vi REAMME.md 
+ 1270  git add .
+ 1271  git commit -m'Updated'
+ 1272  git push
+ 1273  ls
+ 1274  git clone https://github.com/BongOwethu/leetcode.git
+ 1275  ls
+ 1276  cd leetcode
+ 1277  ls
+ 1278  cd python/
+ 1279  ls
+ 1280  clear
+ 1281  ls
+ 1282  cd leetcode/
+ 1283  ls
+ 1284  ls
+ 1285  vi 704
+ 1286  vi 0704
+ 1287  vi 0704-binary-search.py 
+ 1288  ls la
+ 1289  ls -la
+ 1290  clear
+ 1291  cd ..
+ 1292  ls
+ 1293  cd c
+ 1294  ls
+ 1295  vi 1968-array-with-elements-not-equal-to-average-of-neighbors.c 
+ 1296  clear
+ 1297  cd ..
+ 1298  ls
+ 1299  vi README.md
+ 1300  vi README_template.md 
+ 1301  passwd
+ 1302  sudo apt update
+ 1303  sudo apt update 
+ 1304  clear
+ 1305  ls
+ 1306  wsl.exe --update
+ 1307  sudo apt update wsl
+ 1308  wsl --version
+ 1309  apt install wsl
+ 1310  wsl --version
+ 1311  ls
+ 1312  cd alx-low_level_programming/
+ 1313  ls
+ 1314  cd /
+ 1315  cd ~
+ 1316  clear
+ 1317  ls
+ 1318  cd pset1/
+ 1319  ls
+ 1320  cd hello/
+ 1321  touch hello.c
+ 1322  clear
+ 1323  make hello
+ 1324  cd Mandy
+ 1325  cd ~
+ 1326  ls
+ 1327  cd /
+ 1328  /mnt/d/Mandisa/MAndy
+ 1329  cd /mnt/d/Mandisa/MAndy
+ 1330  ls 
+ 1331  cd C Programming
+ 1332  cd /C Programming
+ 1333  cd /C Programming/
+ 1334  cd /C Programming
+ 1335  mkdir -p hour1/takingthefirststep
+ 1336  cd hour1/takingthefirststep/
+ 1337  ls
+ 1338  touch MyFirstProgram.c
+ 1339  clear
+ 1340  touch 02L01.c
+ 1341  ls
+ 1342  rm -r 02L02
+ 1343  cd C_Programming/
+ 1344  ls
+ 1345  vi main.c 
+ 1346  clear
+ 1347  mkdir Exercises
+ 1348  cd Exercises/
+ 1349  mkdir hour2
+ 1350  cd hour2/
+ 1351  cd ~
+ 1352  ls
+ 1353  rm -r C_Programming/
+ 1354  ls
+ 1355  mkdir Learn_C_24hrs
+ 1356  lc
+ 1357  ls
+ 1358  cd Learn_C_24hrs/
+ 1359  mkdir Exercises
+ 1360  vi README.md
+ 1361  ls
+ 1362  mkdir Notes
+ 1363  ls
+ 1364  cd Exercises/
+ 1365  ls
+ 1366  mkdir PartI-The_Basics_of_C
+ 1367  mkdir PartII-Operators_and_Control-flow_Statements
+ 1368  mkdir PartIII-Pointers_and_Arrays
+ 1369  mkdir PartIV-Functions_and_Dynamic_Memory_Allocation
+ 1370  mkdir PartV-Structure,Union,File_I/O,_and_More
+ 1371  mkdir PartV-Structure_Union_File_I/O,_and_More
+ 1372  mkdir PartV-Structure_Union_File_I/O_and_More
+ 1373  mkdir PartV-Structure_Union_File_InputOutput_and_More
+ 1374  ls
+ 1375  cd ..
+ 1376  ls
+ 1377  cd Notes/
+ 1378  mkdir PartI-The_Basics_of_C
+ 1379  mkdir PartII-Operators_and_Control-flow_Statements
+ 1380  mkdir PartIII-Pointers_and_Arrays
+ 1381  mkdir PartIV-Functions_and_Dynamic_Memory_Allocation
+ 1382  mkdir PartV-Structure_Union_File_InputOutput_and_More
+ 1383  cd ..
+ 1384  cd Exercises/
+ 1385  cd PartI-The_Basics_of_C/
+ 1386  mkdir Hour_1_Taking_the_First_Step
+ 1387  mkdir Hour_2_Your_First_C_Program
+ 1388  mkdir Hour_3_Learning_the_Structure_of_a_C_Program
+ 1389  mkdir Hour_4_Understanding_Data_Types_and_Keywords
+ 1390  mkdir Hour_5_Handling_Standard_Input_and_Output
+ 1391  cd ..
+ 1392  cd ../Notes
+ 1393  mkdir Hour_1_Taking_the_First_Step
+ 1394  mkdir Hour_5_Handling_Standard_Input_and_Output
+ 1395  mkdir Hour_2_Your_First_C_Program
+ 1396  mkdir Hour_3_Learning_the_Structure_of_a_C_Program
+ 1397  mkdir Hour_4_Understanding_Data_Types_and_Keywords
+ 1398  cd Hour_1_Taking_the_First_Step/
+ 1399  vi Notes
+ 1400  vi Summary1
+ 1401  ls
+ 1402  vi Q&A1
+ 1403  clear
+ 1404  vi Q_and A1
+ 1405  ls
+ 1406  move Q_and  Q_and_A
+ 1407  cp Q_and  Q_and_A
+ 1408  ls
+ 1409  vi Q_and_A
+ 1410  rm -r Q_and
+ 1411  ls
+ 1412  cp Q_and_A Q_and_A1 
+ 1413  ls
+ 1414  rm -r Q_and_A
+ 1415  ls
+ 1416  cp Notes  Notes1
+ 1417  ls
+ 1418  rm -r Notes
+ 1419  ls
+ 1420  cd ../Hour_2_Your_First_C_Program/
+ 1421  vi Summary2
+ 1422  vi Q_and_A2
+ 1423  ls
+ 1424  clear
+ 1425  cd ../../Exercises/
+ 1426  ls
+ 1427  cd PartI-The_Basics_of_C/
+ 1428  ls
+ 1429  cd Hour_1_Taking_the_First_Step/
+ 1430  cd ../Hour_2_Your_First_C_Program/
+ 1431  ls
+ 1432  touch 01E01
+ 1433  touch 01E02
+ 1434  touch 01E02.c
+ 1435  touch 01E03.c
+ 1436  touch 01E04.c
+ 1437  touch 01E05.c
+ 1438  ls
+ 1439  vi 01E01
+ 1440  vi 01E02.c
+ 1441  clear
+ 1442  ls
+ 1443  rm -r 01E02
+ 1444  clear 
+ 1445  ls
+ 1446  cp 01E01 02E01
+ 1447  cp 01E02.c 02E02.c
+ 1448  cp 01E03.c 02E03.c
+ 1449  cp 01E05.c 02E05.c
+ 1450  ls
+ 1451  rm -r *010E
+ 1452  rm -r *01
+ 1453  ls
+ 1454  rm -r 01E02.c 01E03.c 01E04.c 01E05.c 
+ 1455  ls
+ 1456  vi 02E01
+ 1457  clear
+ 1458  ls
+ 1459  vi 02E02.c 
+ 1460  betty 02E02.c
+ 1461  vi 02E02.c 
+ 1462  betty 02E02.c
+ 1463  vi 02E02.c 
+ 1464  betty 02E02.c
+ 1465  vi 02E02.c 
+ 1466  betty 02E02.c
+ 1467  vi 02E02.c 
+ 1468  betty 02E02.c
+ 1469  clear
+ 1470  ls
+ 1471  vi 02E02.c 
+ 1472  vi 02E03.c 
+ 1473  betty 02E03.c 
+ 1474  vi 02E03.c 
+ 1475  betty 02E03.c 
+ 1476  clear 
+ 1477  ls
+ 1478  vi 02E04.c 
+ 1479  betty 02E04.c 
+ 1480  wq
+ 1481  vi 02E04.c 
+ 1482  betty 02E04.c 
+ 1483  vi 02E04.c 
+ 1484  betty 02E04.c 
+ 1485  vi 02E05.c 
+ 1486  betty 02E05.c 
+ 1487  clear
+ 1488  ls
+ 1489  cd ~
+ 1490  ls
+ 1491  cd alx-low_level_programming/
+ 1492  ls
+ 1493  cd ../alx-higher_level_programming/
+ 1494  ls
+ 1495  ls 
+ 1496  cd Learn_C_24hrs/
+ 1497  LS
+ 1498  ls
+ 1499  cd Notes/
+ 1500  ls
+ 1501  mv Hour_1_Taking_the_First_Step/ Hour_2_Your_First_C_Program/ Hour_3_Learning_the_Structure_of_a_C_Program/ PartI-The_Basics_of_C/
+ 1502  ls
+ 1503  cd PartI-The_Basics_of_C/
+ 1504  ls
+ 1505  cd ..
+ 1506  mv Hour_4_Understanding_Data_Types_and_Keywords/ Hour_5_Handling_Standard_Input_and_Output/ PartI-The_Basics_of_C/
+ 1507  ls
+ 1508  cd PartI-The_Basics_of_C/
+ 1509  ls
+ 1510  cd Hour_3_Learning_the_Structure_of_a_C_Program/
+ 1511  ls
+ 1512  clear
+ 1513  ls
+ 1514  cd ../Hour_1_Taking_the_First_Step/
+ 1515  ls
+ 1516  cd ../Hour_3_Learning_the_Structure_of_a_C_Program/
+ 1517  ls
+ 1518  vi Notes3
+ 1519  vi Listing_3.2
+ 1520  ls
+ 1521  cd Learn_C_24hrs/
+ 1522  ls
+ 1523  cd Notes/
+ 1524  LS
+ 1525  ls
+ 1526  cd PartI-The_Basics_of_C/
+ 1527  ls
+ 1528  cd Hour_3_Learning_the_Structure_of_a_C_Program/
+ 1529  ls
+ 1530  betty Listing_3.2 
+ 1531  vi Listing_3.2 
+ 1532  betty Listing_3.2 
+ 1533  vi Listing_3.2 
+ 1534  betty Listing_3.2 
+ 1535  vi Listing_3.2 
+ 1536  betty Listing_3.2 
+ 1537  cd~
+ 1538  cd ~
+ 1539  clear
+ 1540  cd alx-low_level_programming/
+ 1541  ls
+ 1542  cd 0x00-hello_world/
+ 1543  ls
+ 1544  vi 1-compiler 
+ 1545  vi 3-name 
+ 1546  cd ../0x01-variables_if_else_while/
+ 1547  ls
+ 1548  vi 0-positive_or_negative.c 
+ 1549  cd ~
+ 1550  cd Learn_C_24hrs/Notes/PartI-The_Basics_of_C/Hour_3_Learning_the_Structure_of_a_C_Program/
+ 1551  ls
+ 1552  vi Listing_3.2 
+ 1553  claer
+ 1554  clear
+ 1555  vi Listing_3.2 
+ 1556  betty Listing_3.2 
+ 1557  vi Listing_3.2 
+ 1558  vi 03L02.c
+ 1559  clear
+ 1560  ls
+ 1561  rm -r Listing_3.2 
+ 1562  vi Summary
+ 1563  ls
+ 1564  mv Summary Summary3
+ 1565  ls
+ 1566  vi Summary3 
+ 1567  Q_and_A3
+ 1568  vi Q_and_A3
+ 1569  vi Quiz3
+ 1570  ls
+ 1571  clear
+ 1572  cd ~/Learn_C_24hrs/Exercises/
+ 1573  ls
+ 1574  cd PartI-The_Basics_of_C/
+ 1575  ls
+ 1576  cd Hour_3_Learning_the_Structure_of_a_C_Program/
+ 1577  ls
+ 1578  vi Exercises3
+ 1579  cd ~/Notes
+ 1580  cd ~/Learn_C_24hrs/Exercises/PartI-The_Basics_of_C/Hour_4_Understanding_Data_Types_and_Keywords/
+ 1581  ls
+ 1582  cd ~/Learn_C_24hrs/Notes/PartI-The_Basics_of_C/Hour_4_Understanding_Data_Types_and_Keywords/
+ 1583  ls
+ 1584  clear
+ 1585  vi Notes4
+ 1586  vi 
+ 1587  vi Summary4
+ 1588  cd ~/Learn_C_24hrs//Exercises/PartI-The_Basics_of_C/Hour_4_Understanding_Data_Types_and_Keywords/
+ 1589  ls
+ 1590  clear
+ 1591  vi Q_and_A4
+ 1592  ls
+ 1593  vi Quiz4
+ 1594  vi Exercises4
+ 1595  ls
+ 1596  vi Exercises4
+ 1597  clear
+ 1598  cd Learn_C_24hrs/Notes/PartI-The_Basics_of_C/Hour_5_Handling_Standard_Input_and_Output/
+ 1599  ls
+ 1600  clear
+ 1601  cd ~/Learn_C_24hrs/Exercises/PartI-The_Basics_of_C
+ 1602  ls
+ 1603  cd Hour_4_Understanding_Data_Types_and_Keywords/
+ 1604  ls
+ 1605  vi Exercises4 
+ 1606  clear
+ 1607  cd ~/Learn_C_24hrs/Notes/PartI-The_Basics_of_C/Hour_5_Handling_Standard_Input_and_Output/
+ 1608  vi Notes5
+ 1609  vi Summary5
+ 1610  vi Q_and_A5
+ 1611  vi Quiz5
+ 1612  cd ~/Learn_C_24hrs/Exercises/PartI-The_Basics_of_C/Hour_5_Handling_Standard_Input_and_Output
+ 1613  clear 
+ 1614  cd ..
+ 1615  ls
+ 1616  cd Hour_4_Understanding_Data_Types_and_Keywords/
+ 1617  LS
+ 1618  ls
+ 1619  cd ~/Learn_C_24hrs/Notes/PartI-The_Basics_of_C/Hour_5_Handling_Standard_Input_and_Output
+ 1620  ls
+ 1621  mv Q_and_A5 Quiz5 ~/Learn_C_24hrs/Exercises/PartI-The_Basics_of_C/Hour_4_Understanding_Data_Types_and_Keywords
+ 1622  ls
+ 1623  cd ~/Learn_C_24hrs/Exercises/PartI-The_Basics_of_C/Hour_4_Understanding_Data_Types_and_Keywords
+ 1624  ls
+ 1625  mv Q_and_A5 Quiz5 ~/Learn_C_24hrs/Exercises/PartI-The_Basics_of_C/Hour_5_Handling_Standard_Input_and_Output/
+ 1626  ls
+ 1627  cd ~/Learn_C_24hrs/Exercises/PartI-The_Basics_of_C/Hour_5_Handling_Standard_Input_and_Output/
+ 1628  clear
+ 1629  ls
+ 1630  vi Exercises5
+ 1631  cd ~/Learn_C_24hrs/Notes
+ 1632  ls
+ 1633  cd PartII-Operators_and_Control-flow_Statements/
+ 1634  ls
+ 1635  cd ..
+ 1636  clear
+ 1637  cd PartI-The_Basics_of_C/
+ 1638  ls
+ 1639  cd ../PartII-Operators_and_Control-flow_Statements/
+ 1640  ls
+ 1641  mkdir Hour_6_Manipulating_Data
+ 1642  mkdir Hour_7_Working_with_Loops
+ 1643  mkdir Hour_8_Using_Conditional_Operators
+ 1644  mkdir Hour_9_Working_with_Data_Modifiers_and_Math_Functions
+ 1645  Hour_10_Controlling_Program_Flow
+ 1646  mkdir Hour_10_Controlling_Program_Flow
+ 1647  ls
+ 1648  cd ../PartIII-Pointers_and_Arrays/
+ 1649  ls
+ 1650  clear
+ 1651  mkdir Hour_11_Understanding_Pointers
+ 1652  mkdir Hour_12_Understanding_Arrays
+ 1653  mkdir Hour_13_Manipulating_Strings
+ 1654  mkdir Hour_14_Understanding_Scope_and_Storage_Classes
+ 1655  cd ../PartII-Operators_and_Control-flow_Statements/
+ 1656  ls
+ 1657  cd Hour_6_Manipulating_Data/
+ 1658  vi Notes6
+ 1659  vi Summary6
+ 1660  cd ~/Learn_C_24hrs/Exercies/PartII-Operators_and_Control-flow_Statements
+ 1661  cd ~/Learn_C_24hrs/Exerices/PartII-Operators_and_Control-flow_Statements
+ 1662  cd ~/Learn_C_24hrs/Exercises/PartII-Operators_and_Control-flow_Statements/
+ 1663  ls
+ 1664  mkdir Hour_6_Manipulating_Data
+ 1665  mkdir Hour_10_Controlling_Program_Flow
+ 1666  mkdir Hour_9_Working_with_Data_Modifiers_and_Math_Functions
+ 1667  mkdir Hour_8_Using_Conditional_Operators
+ 1668  mkdir Hour_7_Working_with_Loops
+ 1669  mkdir Hour_6_Manipulating_Data
+ 1670  cd ../PartIII-Pointers_and_Arrays/
+ 1671  clear
+ 1672  mkdir Hour_13_Manipulating_Strings
+ 1673  mkdir Hour_14_Understanding_Scope_and_Storage_Classes
+ 1674  mkdir Hour_12_Understanding_Arrays
+ 1675  mkdir Hour_11_Understanding_Pointers
+ 1676  ls
+ 1677  cd ../PartII-Operators_and_Control-flow_Statements/
+ 1678  ls
+ 1679  cd ~/Learn_C_24hrs/Notes/PartII-Operators_and_Control-flow_Statements/
+ 1680  ls
+ 1681  cd Hour_6_Manipulating_Data/
+ 1682  ls
+ 1683  cd ~/Learn_C_24hrs/Exercises/PartII-Operators_and_Control-flow_Statements/
+ 1684  ls
+ 1685  clear
+ 1686  cd Hour_6_Manipulating_Data/
+ 1687  ls
+ 1688  vi Q_and_A6
+ 1689  vi Quiz6
+ 1690  ls
+ 1691  vi Exercise6
+ 1692  cd Learn_C_24hrs/
+ 1693  ls
+ 1694  cd Notes/PartII-Operators_and_Control-flow_Statements/Hour
+ 1695  cd Notes/PartII-Operators_and_Control-flow_Statements/Hour_7_Working_with_Loops/
+ 1696  ls
+ 1697  clear
+ 1698  vi Notes7
+ 1699  vi Summary7
+ 1700  cd ~/Learn_C_24hrs/Exercises/PartII-Operators_and_Control-flow_Statements/Hour_7_Working_with_Loops/
+ 1701  ls
+ 1702  cd ..
+ 1703  ls
+ 1704  cd Hour_7_Working_with_Loops/
+ 1705  vi Q_and_A7
+ 1706  clear
+ 1707  vi Quiz7
+ 1708  vi Exercises7
+ 1709  cd ~/Learn_C_24hrs/Notes/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators/
+ 1710  ls
+ 1711  vi Notes8
+ 1712  cd :~/Learn_C_24hrs/Exercises/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators
+ 1713  clear
+ 1714  cd ~/Learn_C_24hrs/Notes/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators/
+ 1715  ls
+ 1716  vi Summary8
+ 1717  cd ~/Learn_C_24hrs/Notes/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators/
+ 1718  vi Q_and_A8
+ 1719  cd :~/Learn_C_24hrs/Exercises/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators
+ 1720  cd ~/Learn_C_24hrs/Exercises/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators
+ 1721  clear
+ 1722  vi Quiz8
+ 1723  vi Exercises8
+ 1724  cd Learn_C_24hrs/Notes/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators/
+ 1725  ls
+ 1726  vi Notes8 
+ 1727  cd Learn_C_24hrs/Notes/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators/
+ 1728  ls
+ 1729  vi Notes
+ 1730  ls
+ 1731  vi Notes8 
+ 1732  cd ..
+ 1733  cd Hour_7_Working_with_Loops/
+ 1734  vi Notes7 
+ 1735  cd ~/Learn_C_24hrs/Notes/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators
+ 1736  clear
+ 1737  ls
+ 1738  vi Notes8 
+ 1739  cd ~/Learn_C_24hrs/Exercises/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators
+ 1740  ls
+ 1741  vi Quiz8 
+ 1742  cd ~/Learn_C_24hrs/Notes/PartII-Operators_and_Control-flow_Statements/Hour_8_Using_Conditional_Operators
+ 1743  clear
+ 1744  cd ,,
+ 1745  ls
+ 1746  cd ..
+ 1747  ls
+ 1748  cd Hour_9_Working_with_Data_Modifiers_and_Math_Functions/
+ 1749  vi Notes9
+ 1750  ls
+ 1751  cd Learn_C_24hrs/
+ 1752  git remote add origin https://github.com/BongOwethu/Learn_C_24hrs.git
+ 1753  apt install make
+ 1754  clear
+ 1755  ls
+ 1756  love
+ 1757  i miss you
+ 1758  sudo apt update
+ 1759  apt list --upgradable
+ 1760  sudo apt upgradable
+ 1761  sudo apt upgrade
+ 1762  ls
+ 1763  cd alx-higher_level_programming/
+ 1764  ls
+ 1765  vi README.md 
+ 1766  git clone https://github.com/BongOwethu/20-Python-Projects.git
+ 1767  ls
+ 1768  cd 20-Python-Projects/
+ 1769  ls
+ 1770  git clone https://gist.github.com/242dfa206aae7ef6caf8cd6a993f5a24.git
+ 1771  git push
+ 1772  ls
+ 1773  cd 242dfa206aae7ef6caf8cd6a993f5a24/
+ 1774  git push
+ 1775  ls
+ 1776  vi README.md 
+ 1777  vi code.md 
+ 1778  clear
+ 1779  cd ..
+ 1780  ls
+ 1781  alx-zero_day/
+ 1782  cd alx-zero_day/
+ 1783  ls
+ 1784  vi README.md 
+ 1785  cd 0x03-git/
+ 1786  ls
+ 1787  vi README.md 
+ 1788  vi up_to_date 
+ 1789  git add
+ 1790  git add .
+ 1791  git commit -m'Updated Readme'
+ 1792  git push
+ 1793  python
+ 1794  cd ..
+ 1795  yum update
+ 1796  pip install ssl
+ 1797  npm i monaco-editor
+ 1798  apt install npm
+ 1799  npm i monaco-editor
+ 1800  ls
+ 1801  cd 20-Python-Projects/
+ 1802  ls
+ 1803  git add .
+ 1804  git commit -m'My first 3 small projects'
+ 1805  git push
+ 1806  git pull
+ 1807  git git config --global user.email "mandisampume@outlook.com"
+ 1808  git config --global user.email "mandisampume@outlook.com"
+ 1809  git config --global user.name "Mandisa Shange"
+ 1810  https://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@github.com/BongOwethu/20-Python-Projects.git
+ 1811  git clone 
+ 1812  git pull
+ 1813  clear
+ 1814  cd ..
+ 1815  git clone https://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@github.com/BongOwethu/20-Python-Projects.git
+ 1816  cd 20-Python-Projects/
+ 1817  ls
+ 1818  git push
+ 1819  git push main
+ 1820  git status
+ 1821  git pull
+ 1822  git merge 
+ 1823  fit check
+ 1824  git check stasus
+ 1825  get status
+ 1826  git status
+ 1827  git commit -m'Update file'
+ 1828  git add basic_calculator.py 
+ 1829  git commit -m'Update file'
+ 1830  git push
+ 1831  clear
+ 1832  cd ~
+ 1833  ls
+ 1834  cd alx-higher_level_programming/
+ 1835  ls
+ 1836  cd 20-Python-Projects/
+ 1837  ls
+ 1838  /bin/python3 /root/20-Python-Projects/basic_calculator.py
+ 1839  code /bin/python3 /root/20-Python-Projects/email_slicer.py
+ 1840  /bin/python3 /root/20-Python-Projects/email_slicer.py
+ 1841  clear
+ 1842  /bin/python3 /root/20-Python-Projects/email_slicer.py
+ 1843  python basic_calculator.py 
+ 1844  /bin/python3 /root/20-Python-Projects/email_slicer.py
+ 1845  clear
+ 1846  python email_slicer.py 
+ 1847  clear
+ 1848  /bin/python3 /root/20-Python-Projects/email_slicer.py
+ 1849  /bin/python3 /root/20-Python-Projects/binary_search_algorithm.py
+ 1850  /bin/python3 /root/20-Python-Projects/quiz_program.py
+ 1851  code binary_search_algorithm.py
+ 1852  code email_slicer.py
+ 1853  cd 20-Python-Projects/
+ 1854  ls
+ 1855  git add .
+ 1856  git commit -m'Second three small projects'
+ 1857  git push
+ 1858  code QR_code_generator.py
+ 1859  pip install qrcode Image
+ 1860  apt install qrcode Image
+ 1861  pip instal qrcode Image
+ 1862  apt instal qrcode Image
+ 1863  apt install qrcode Image
+ 1864  /bin/python3 /root/20-Python-Projects/QR_code_generator.py
+ 1865  code Intrest_rate_monthly_payment_calculator.py
+ 1866  cd 20-Python-Projects/
+ 1867  ls
+ 1868  git add .
+ 1869  git clone https://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@github.com/BongOwethu/The-Practice-of-System-and-Network-Administration.git
+ 1870  /bin/python3 /root/20-Python-Projects/Intrest_rate_monthly_payment_calculator.py
+ 1871  claer
+ 1872  clear
+ 1873  code Random_password_generator.py
+ 1874  /bin/python3 /root/20-Python-Projects/Random_password_generator.py
+ 1875  code random_password_generator.py
+ 1876  ls
+ 1877  rm -r random_password_generator.py 
+ 1878  ls
+ 1879  code dice_rolling_simulator.py
+ 1880  /bin/python3 /root/20-Python-Projects/dice_rolling_simulator.py
+ 1881  code site_connectivity_checker.py
+ 1882  /bin/python3 /root/20-Python-Projects/site_connectivity_checker.py
+ 1883  clear
+ 1884  code currency_converter.py
+ 1885  /bin/python3 /root/20-Python-Projects/currency_converter.py
+ 1886  cd 20-Python-Projects/
+ 1887  ls
+ 1888  git add .
+ 1889  git commit -m'My fourth set'
+ 1890  git push
+ 1891  cd 20-Python-Projects/
+ 1892  ls
+ 1893  git add .
+ 1894  git commit -m'Fifth set'
+ 1895  git push 
+ 1896  clear
+ 1897  git clone https:// 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@github.com/BongOwethu/Data-Structures-and-Algorithms-in-Python.git
+ 1898  git clone https://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@github.com/BongOwethu/Data-Structures-and-Algorithms-in-Python.git
+ 1899  ls
+ 1900  git clone https://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@github.com/BongOwethu/Practice-of-Cloud-System-Administration-.git
+ 1901  ls
+ 1902  cd leetcode/
+ 1903  ls
+ 1904  cd python/
+ 1905  ls
+ 1906  clear
+ 1907  code leap_year_checker.py
+ 1908  /bin/python3 /root/20-Python-Projects/leap_year_checker.py
+ 1909  code word_dictionary.py
+ 1910  /bin/python3 /root/20-Python-Projects/word_dictionary.py
+ 1911  code word_dictionary_2.py
+ 1912  clear/bin/python3 /root/20-Python-Projects/word_dictionary_2.py
+ 1913  /bin/python3 /root/20-Python-Projects/word_dictionary_2.py
+ 1914  clear 
+ 1915  code rock_paper_scissors.py
+ 1916  pip install PythonDictionary
+ 1917  /bin/python3 /root/20-Python-Projects/rock_paper_scissors.py
+ 1918  python rock_paper_scissors.py 
+ 1919  python3 rock_paper_scissors.py 
+ 1920  clear
+ 1921  python3 rock_paper_scissors.py 
+ 1922  rock 
+ 1923  rock
+ 1924  paper
+ 1925  code face_detector.py
+ 1926  import cv2
+ 1927  git clone https://github.com/tomitokko/20-python-projects.git
+ 1928  ls
+ 1929  cd 20-Python-Projects/
+ 1930  ls
+ 1931  cd ..
+ 1932  git add .
+ 1933  cd 20-Python-Projects/
+ 1934  git add .
+ 1935  git commit -m'Sixth set'
+ 1936  git push
+ 1937  cd ..
+ 1938  rm -r 20-Python-Projects/
+ 1939  ls
+ 1940  rm -r 20-Python-Projects/
+ 1941  rm -r 20-yython-Projects/
+ 1942  rm -r 20-python-Projects/
+ 1943  rm -r 20-python-projects/
+ 1944  git clone https://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@github.com/BongOwethu/20-Python-Projects.git
+ 1945  ls
+ 1946  cd Data-Structures-and-Algorithms-in-Python/
+ 1947  ls
+ 1948  /bin/python3 /root/20-Python-Projects/face_detector.py
+ 1949  git add .
+ 1950  code Automated_python_message.py
+ 1951  code graph_plotter.py
+ 1952  code image_resizer.py
+ 1953  git add .
+ 1954  git commit -m'Last set'
+ 1955  git push
+ 1956  ls
+ 1957  cd 242dfa206aae7ef6caf8cd6a993f5a24/
+ 1958  ls
+ 1959  cd ../leetcode/
+ 1960  ls
+ 1961  cd python/
+ 1962  ls
+ 1963  vi 0704-binary-search.py 
+ 1964  ls
+ 1965  cd alx-low_level_programming/
+ 1966  ls
+ 1967  cd alx-low_level_programming/
+ 1968  ls
+ 1969  vi README.md
+ 1970  vi READMe.md
+ 1971  cd ..
+ 1972  ls
+ 1973  cd ~
+ 1974  cd alx-low_level_programming/
+ 1975  ls
+ 1976  git pull
+ 1977  cd ..
+ 1978  ls
+ 1979  cd 20-Python-Projects/
+ 1980  git pull
+ 1981  cd ../alx-system_engineering-devops/
+ 1982  ls
+ 1983  git pull
+ 1984  cd ../alx-higher_level_programming/
+ 1985  git pull
+ 1986  cd ..
+ 1987  sudo apt-cache show node.js
+ 1988  ls
+ 1989  git clone https://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@github.com/Umuzi-org/Mandisa-Shange-778-contentitem-.git
+ 1990  clear
+ 1991  git clone https://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@github.com/Umuzi-org/Mandisa-Shange-778-contentitem-.git
+ 1992  mkdir Umuzi_projects
+ 1993  cd Umuzi_projects/
+ 1994  vi important.md
+ 1995  mkdir git-basic-exercises
+ 1996  cd /git-basic-exercises
+ 1997  ls
+ 1998  cd git-basic-exercises/
+ 1999  ls -a
+ 2000  clear
+ 2001  git init
+ 2002  ls -a
+ 2003  git status
+ 2004  touch README.md
+ 2005  ls -a
+ 2006  git status
+ 2007  git log
+ 2008  git add .
+ 2009  git commit -m "initial commit"
+ 2010  git log
+ 2011  nano README.md
+ 2012  cat README.md
+ 2013  git status
+ 2014  git commit -m "second commit"
+ 2015  git add .
+ 2016  git commit -m "second commit"
+ 2017  nano README.md
+ 2018  cat README.md
+ 2019  nano README.md
+ 2020  cat README.md
+ 2021  git add .
+ 2022  git commit -m "third commit"
+ 2023  cd ..
+ 2024  ls
+ 2025  rm -r git-basic-exercises/
+ 2026  git clone https://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@github.com/BongOwethu/git-basic-exercises.git
+ 2027  cd git-basic-exercises/
+ 2028  claer
+ 2029  clear
+ 2030  git init
+ 2031  ls -a
+ 2032  git status
+ 2033  touch README.md
+ 2034  ls -a
+ 2035  git status
+ 2036  git log
+ 2037  git add .
+ 2038  git commit -m "initial commit"
+ 2039  git log
+ 2040  nano README.md
+ 2041  cat README.md 
+ 2042  git status
+ 2043  git add .
+ 2044  git commit -m "sedond commit"
+ 2045  nano README.md
+ 2046  git add .
+ 2047  git commit -m "third commit"
+ 2048  cat README.md 
+ 2049  git log
+ 2050  git checkout
+ 2051  2f7a5cf5a95a96b05ebab7a0bc844d49cab405e5
+ 2052  git checkout 2f7a5cf5a95a96b05ebab7a0bc844d49cab405e5
+ 2053  git switch -
+ 2054  git checkout 2f7a5cf5a95a96b05ebab7a0bc844d49cab405e5
+ 2055  cat README.md 
+ 2056  git checkout main
+ 2057  cat README.md 
+ 2058  clear
+ 2059  git branch
+ 2060  git branch milkshake-flavours
+ 2061  git branch
+ 2062  git checkout milkshake-flavours 
+ 2063  git branch
+ 2064  nano milkshakes.md
+ 2065  git status
+ 2066  git commit -m "added initial flavours"
+ 2067  git log
+ 2068  git checkout main
+ 2069  git log
+ 2070  git branch
+ 2071  git branch history
+ 2072  git log
+ 2073  history > history.txt
