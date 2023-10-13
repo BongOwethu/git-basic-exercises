@@ -1,76 +1,3 @@
- 1074  git pull
- 1075  git checkout main
- 1076  git merge master
- 1077  git push
- 1078  cd alx-low_level_programming/
- 1079  cd 0x08-recursion/
- 1080  cd ..
- 1081  gh auth login.
- 1082  gh auth login
- 1083  gh auth status
- 1084  git checkout main
- 1085  git merge master
- 1086  cd 0x08-recursion/
- 1087  git merge master
- 1088  ls
- 1089  git push
- 1090  gh auth status
- 1091  git branch -m master <BRANCH>
- 1092  git branch -m master main
- 1093  git checkout master
- 1094  git merge main
- 1095  git checkout main
- 1096  git checkout-b master
- 1097  git fetch origin
- 1098  git remote set-head origin -a
- 1099  git checkout master
- 1100  git merge main
- 1101  git checkout main
- 1102  git push
- 1103  git push --set-upstream origin main
- 1104  git push origin main
- 1105  git push main
- 1106  git setup
- 1107  git status
- 1108  cd alx-low_level_programming/
- 1109  ls
- 1110  cd 0x08-recursion/
- 1111  ls
- 1112  git push
- 1113  git push --set-upstream origin main
- 1114  ls
- 1115  cd alx-low_level_programming/
- 1116  ls
- 1117  cd 0x08-recursion/
- 1118  ls
- 1119  rm -r alx-low_level_programming/
- 1120  ls
- 1121  git clone https://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@github.com/BongOwethu/alx-low_level_programming.git
- 1122  ls
- 1123  cd alx-low_level_programming/
- 1124  ls
- 1125  rm -r alx-low_level_programming/
- 1126  cd 0x08-recursion/
- 1127  ls
- 1128  vi main.h 
- 1129  vi 0-puts_recursion.c 
- 1130  cd alx-low_level_programming/
- 1131  ls
- 1132  cd 0x08-recursion/
- 1133  ls
- 1134  git pull
- 1135  git add .
- 1136  git commit -m'Update'
- 1137  git push
- 1138  ls
- 1139  cd alx-low_level_programming/
- 1140  cd 0x09
- 1141  cd 0x09-static_libraries/
- 1142  ls
- 1143  vi README.md 
- 1144  vi main.h 
- 1145  vi 0-isupper.c
- 1146  rm *.o
  1147  ls
  1148  rm create_static_lib.sh 
  1149  vi 0-memset.c 
@@ -998,3 +925,76 @@
  2071  git branch history
  2072  git log
  2073  history > history.txt
+ 2074  git commit -m "added history"
+ 2075  git add .
+ 2076  git commit -m "added history"
+ 2077  git log
+ 2078  git add milkshake.md
+ 2079  git branch milkshake-flavours
+ 2080  git add .
+ 2081  git commit -m "added initial flavours"
+ 2082  git checkout main
+ 2083  log
+ 2084  git log
+ 2085  git branch milkshake-flavours
+ 2086  ls
+ 2087  nano README.md 
+ 2088  git add .
+ 2089  git commit -m"random readme changes"
+ 2090  git branch history
+ 2091  git checkout history 
+ 2092  cat README.md 
+ 2093  clear
+ 2094  rm README.md 
+ 2095  echo "booya" > README.md
+ 2096  git add .
+ 2097  git commit -m"rewrote readme"
+ 2098  git checkout main
+ 2099  ls
+ 2100  git log
+ 2101  git checkout milkshake-flavours 
+ 2102  ls
+ 2103  git checkout history
+ 2104* 
+ 2105  git checkout milkshake-flavours 
+ 2106* git 
+ 2107  ls
+ 2108  git checkout main 
+ 2109  ls
+ 2110  mv milkshakes.md git checkout milkshakes.md 
+ 2111  mv milkshakes.md git checkout milkshake-flavours 
+ 2112  git checkout milkshake-flavours 
+ 2113  ls
+ 2114  nano milkshakes.md
+ 2115  git add .
+ 2116  git commit -m "added initial flavours"
+ 2117  ls
+ 2118  git log
+ 2119  ls
+ 2120  nano README.md 
+ 2121  git add .
+ 2122  git commit -m "random readme changes"
+ 2123  git log
+ 2124  git checkout history
+ 2125  ls
+ 2126  git log
+ 2127  touch history.txt
+ 2128  git add .
+ 2129  git commit -m"added history"
+ 2130  ls
+ 2131  git log
+ 2132  git checkout main
+ 2133  ls
+ 2134  rm -r history.txt milkshakes.md 
+ 2135  ls
+ 2136  git merge milkshake-flavours 
+ 2137  ls
+ 2138  git log
+ 2139  git checkout history
+ 2140  git log
+ 2141  git checkout milkshake-flavours 
+ 2142  git log
+ 2143  git merge history
+ 2144  git add .
+ 2145  ls
+ 2146  history > history.txt
