@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-1. Vanilla
-=======
-  GNU nano 6.2                 milkshakes.md                          1. Vanilla
+  GNU nano 6.2                 milkshakes.md                         
 >>>>>>> milkshake-flavours
+1. Vanilla
 2. Chocolate
 3. Strawberry
 4. Banana
